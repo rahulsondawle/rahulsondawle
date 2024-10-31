@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulsondawle
-- Currently a Master's student at Johns Hopkins interested in neural interfaces and signal decoding. I hope to leverage this technology to treat neurodegenerative disorders.
+- Currently a Master's student at Johns Hopkins interested in neural interfaces and signal decoding.
 
 <!---
 rahulsondawle/rahulsondawle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
